@@ -15,34 +15,35 @@
 <a href="https://instagram.com/sabrineh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabrineh.dev" height="30" width="40" /></a>
 </p>
 
+---
 
- 🔭 Professional Experience
+<h3 align="left"> 🔭 Professional Experience</h3>
 
- 🏢 Currently at Shatel Company  
+<h3 align="left">  🏢 Currently at Shatel Company  </h3>
 - Developing **scalable** and **user-friendly** web applications.  
 
- 💼 Previous Experience at Samarayaneh Company  
+<h3 align="left">  💼 Previous Experience at Samarayaneh Company </h3>
 - **1 year** of experience building **management dashboards** using **Next.js**.  
 
- 🛠 Freelance Collaborations (3 years)  
+<h3 align="left">  🛠 Freelance Collaborations (3 years)   </h3>
 Worked on impactful projects, including:  
 - **Payam Noor System** (*Amirkabir University*)  
 - **Gereh Project** (*Amirkabir University*)  
 
 ---
 
- 🎓 Education & Certifications
+<h3 align="left">  🎓 Education & Certifications</h3>
 
- 🎓 Bachelor's Degree  
+<h3 align="left"> 🎓 Bachelor's Degree </h3>
 - **Computer Science**  
   *Semnan University*  
 
- 📜 Certifications  
+<h3 align="left">  📜 Certifications   </h3>
 - **Website Development** - *Jahad Daneshgahi*  
 - **Advanced Web Development** - *Amirkabir University*  
 - **Online Courses** by *Professor Azami*  
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
