@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ksabrineh@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sabrineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrineh" height="30" width="40" /></a>
@@ -19,26 +21,26 @@
 
 <h3 align="left"> 🔭 Professional Experience</h3>
 
-<h3 align="left">  🏢 Currently at Shatel Company  </h3>
+🏢 **Currently at Shatel Company**  
 - Developing **scalable** and **user-friendly** web applications.  
 
-<h3 align="left">  💼 Previous Experience at Samarayaneh Company </h3>
+💼 **Previous Experience at Samarayaneh Company**  
 - **1 year** of experience building **management dashboards** using **Next.js**.  
 
-<h3 align="left">  🛠 Freelance Collaborations (3 years)   </h3>
+🛠 **Freelance Collaborations (3 years)**  
 Worked on impactful projects, including:  
 - **Payam Noor System** (*Amirkabir University*)  
 - **Gereh Project** (*Amirkabir University*)  
 
 ---
 
-<h3 align="left">  🎓 Education & Certifications</h3>
+<h3 align="left"> 🎓 Education & Certifications</h3>
 
-<h3 align="left"> 🎓 Bachelor's Degree </h3>
+🎓 **Bachelor's Degree**  
 - **Computer Science**  
   *Semnan University*  
 
-<h3 align="left">  📜 Certifications   </h3>
+📜 **Certifications**  
 - **Website Development** - *Jahad Daneshgahi*  
 - **Advanced Web Development** - *Amirkabir University*  
 - **Online Courses** by *Professor Azami*  
@@ -97,7 +99,7 @@ Worked on impactful projects, including:
   </a> 
 </p>
 
-
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinehk&show_icons=true&locale=en&layout=compact" alt="sabrinehk" /></p>
 
