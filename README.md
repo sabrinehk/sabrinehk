@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left"> 🔭 Professional Experience</h3>
+<h3 align="left"> 🔭 Professional Experience:</h3>
 
 🏢 **Currently at Shatel Company**  
 - Developing **scalable** and **user-friendly** web applications.  
@@ -34,7 +34,7 @@ Worked on impactful projects, including:
 
 ---
 
-<h3 align="left"> 🎓 Education & Certifications</h3>
+<h3 align="left"> 🎓 Education & Certifications:</h3>
 
 🎓 **Bachelor's Degree**  
 - **Computer Science**  
