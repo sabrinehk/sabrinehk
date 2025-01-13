@@ -16,18 +16,27 @@
 </p>
 
 🔭 Professional Experience
+
 Currently working at Shatel Company:
+
 Developing scalable and user-friendly web applications.
+
 Previously at Samarayaneh Company:
+
 One year of experience building management dashboards using Next.js.
+
 Freelance Collaborations (3 years):
+
 Worked on impactful projects like:
 Payam Noor System (Amirkabir University)
 Gereh Project (Amirkabir University)
 
 🎓 Education & Certifications
+
 Bachelor's Degree in Computer Science (Semnan University)
+
 Certifications:
+
 Website Development - Jahad Daneshgahi
 Advanced Web Development - Amirkabir University
 Online Courses by Professor Azami
