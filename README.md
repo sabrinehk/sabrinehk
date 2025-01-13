@@ -19,6 +19,10 @@
 
 ---
 
+![Girl GIF](assets/girl.gif)
+
+---
+
 <h3 align="left"> 🔭 Professional Experience:</h3>
 <br>
 
