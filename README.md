@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Shatel Company](https://www.shatel.ir/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, Three.js**
 
 - 💬 Ask me about **Next.js & React.js**
 
@@ -14,6 +14,24 @@
 <a href="https://linkedin.com/in/sabrineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrineh" height="30" width="40" /></a>
 <a href="https://instagram.com/sabrineh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabrineh.dev" height="30" width="40" /></a>
 </p>
+
+🔭 Professional Experience
+Currently working at Shatel Company:
+Developing scalable and user-friendly web applications.
+Previously at Samarayaneh Company:
+One year of experience building management dashboards using Next.js.
+Freelance Collaborations (3 years):
+Worked on impactful projects like:
+Payam Noor System (Amirkabir University)
+Gereh Project (Amirkabir University)
+
+🎓 Education & Certifications
+Bachelor's Degree in Computer Science (Semnan University)
+Certifications:
+Website Development - Jahad Daneshgahi
+Advanced Web Development - Amirkabir University
+Online Courses by Professor Azami
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
