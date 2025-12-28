@@ -123,5 +123,5 @@ Worked on impactful projects, including:
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinehk&show_icons=true&locale=en&layout=compact" alt="sabrinehk" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinehk&show_icons=true&locale=en&layout=compact" alt="sabrinehk" /></p> -->
 
