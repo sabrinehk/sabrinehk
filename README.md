@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Next.js & React.js**
 
-- 📫 How to reach me **ksabrineh@gmail.com**
+- 📫 How to reach me **ksabrineh@gmail.com**    
 
 ---
 
