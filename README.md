@@ -37,7 +37,7 @@
 🏢 **Currently at Refah Kargaran Bank**  
 - Developing **scalable** and **user-friendly** web applications.
 
-🏢 **Previous Experience at Shatel Company**  
+💼 **Previous Experience at Shatel Company**  
 - **2 year** of experience building **Shatel's website and sales promotion landing pages** using **Next.js**.  
 
 💼 **Previous Experience at Samarayaneh Company**  
