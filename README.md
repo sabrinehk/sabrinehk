@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabrineh Kazemi</h1>
 <h3 align="center">Next.js and React.js Web Application Developer</h3>
 
-- 🔭 I’m currently working at [Shatel Company](https://www.shatel.ir/)
+- 🔭 I’m currently working at [Refah Kargaran Bank](https://www.refah-bank.ir/home)
 
 - 🌱 I’m currently learning **Typescript, Three.js**
 
@@ -34,8 +34,11 @@
 <br>
 
 
-🏢 **Currently at Shatel Company**  
-- Developing **scalable** and **user-friendly** web applications.   
+🏢 **Currently at Refah Kargaran Bank**  
+- Developing **scalable** and **user-friendly** web applications.
+
+🏢 **Previous Experience at Shatel Company**  
+- **2 year** of experience building **Shatel's website and sales promotion landing pages** using **Next.js**.  
 
 💼 **Previous Experience at Samarayaneh Company**  
 - **1 year** of experience building **management dashboards** using **Next.js**.  
